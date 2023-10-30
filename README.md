@@ -20,7 +20,7 @@ A Frontend Mentor project to replicate a given design of a QR code graphic with 
 
 ### Links
 
-- Solution URL: [Solution]()
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/qrcodecomponent-vLcdv-HKsU)
 - Live Site URL: [Live Site](https://ashdev0.github.io/QR-code-component/)
 
 ## My process
